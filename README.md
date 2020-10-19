@@ -11,11 +11,11 @@ Este evento teve muito conteúdo exclusivo e gratuito, foi simplesmente sensacio
 ![Happy](https://user-images.githubusercontent.com/64798575/96478835-88450980-120e-11eb-9662-a013f90aec74.png)
 
 ### Funcionalidades
-####  Incentivar mais pessoas a visitar orfanatos.
-#### Você pode criar e registrar orfanatos.
-#### Você pode marcar os dia para visitar orfanatos.
-#### Entrar em contato pelo Whatsapp
-#### Ver rotas pelo Google Maps
+Incentivar mais pessoas a visitar orfanatos.
+Você pode criar e registrar orfanatos.
+Você pode marcar os dia para visitar orfanatos.
+Entrar em contato pelo Whatsapp
+Ver rotas pelo Google Maps
 
 ### Tecnologias
 #### [Node.js](https://nodejs.org/en/)
