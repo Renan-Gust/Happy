@@ -1,6 +1,6 @@
-# Happy
+# Happy ![Happy](https://user-images.githubusercontent.com/59374587/95769432-3c361a00-0c8e-11eb-8ce7-9ee9a66f32af.png)
 
-![Happy](https://user-images.githubusercontent.com/59374587/95769432-3c361a00-0c8e-11eb-8ce7-9ee9a66f32af.png)
+
 
 # Sobre
 O projeto Happy, desenvolvido durante a Next Level Week, da Rocketseat.
