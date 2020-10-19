@@ -12,13 +12,12 @@ Vamos levar felicidade ao mundo! 😊
 Este evento teve muito conteúdo exclusivo e gratuito, foi simplesmente sensacional e lucrativo! 😄
 
 ### Tecnologias
-#### Node.js
 [Node.js](https://nodejs.org/en/)
-###### Expressar
-###### SQLite
-###### Handelbars
-###### JavaScript
-###### CSS
-###### HTML
+[Express](https://expressjs.com/pt-br/)
+[SQLite](https://www.sqlite.org/index.html)
+[Handelbars](https://handlebarsjs.com/)
+[JavaScript](https://www.javascript.com/)
+[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[HTML](https://html.com/)
 
 
