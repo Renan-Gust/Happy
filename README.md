@@ -32,4 +32,8 @@ Ver rotas pelo Google Maps                                                      
 #### [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 #### [HTML](https://html.com/)
 
+# Desafios ao longo do caminho
+Next level week, como muitos sabem, requer prática e muito foco! Felizmente, eu fui bem espero que continuo assim e sempre me esforçando para ser melhor do que o anterior, como o nome já diz devemos sempre estár em busca do próximo nível para sermos melhores cada dia mais.
+Rocketseat está de parabéns foi uma experiência sensasiconal!
+
 
