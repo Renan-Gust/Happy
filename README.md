@@ -11,4 +11,13 @@ E o desafio da semana foi propor não só uma programação, mas também um pouc
 Vamos levar felicidade ao mundo! 😊
 Este evento teve muito conteúdo exclusivo e gratuito, foi simplesmente sensacional e lucrativo! 😄
 
+### Tecnologias
+Node.js
+Expressar
+SQLite
+Guidão
+JavaScript
+CSS
+HTML
+
 
