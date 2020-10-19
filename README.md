@@ -13,7 +13,7 @@ Este evento teve muito conteúdo exclusivo e gratuito, foi simplesmente sensacio
 
 ### Tecnologias
 #### Node.js
-![node](https://nodejs.org/en/)
+![](https://nodejs.org/en/)
 ###### Expressar
 ###### SQLite
 ###### Handelbars
