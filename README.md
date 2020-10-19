@@ -5,4 +5,4 @@ E o desafio da semana foi propor não só uma programação, mas também um pouc
 Vamos levar felicidade ao mundo! 😊
 Este evento teve muito conteúdo exclusivo e gratuito, foi simplesmente sensacional e lucrativo! 😄
 
-![Happy](https://github.com/Renan-Gust/Happy/blob/main/Happy.mp4)
+![Happy](https://user-images.githubusercontent.com/59374587/95769432-3c361a00-0c8e-11eb-8ce7-9ee9a66f32af.png)
