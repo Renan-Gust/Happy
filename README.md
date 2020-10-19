@@ -12,7 +12,7 @@ Vamos levar felicidade ao mundo! 😊
 Este evento teve muito conteúdo exclusivo e gratuito, foi simplesmente sensacional e lucrativo! 😄
 
 ### Tecnologias
-##### Node.js
+#### Node.js
 ###### Expressar
 ###### SQLite
 ###### Handelbars
