@@ -2,7 +2,7 @@
  
 # Happy
 
-### Sobre
+# Sobre
 O projeto Happy, desenvolvido durante a Next Level Week, da Rocketseat.
 O projeto é inspirado em instituições de caridade, que realizam trabalhos muito importantes no mundo. E tem como objetivo incentivar as pessoas a visitar orfanatos, o que é uma maravilhosa de ser ver.
 E o desafio da semana foi propor não só uma programação, mas também um pouco de reflexão.😀
