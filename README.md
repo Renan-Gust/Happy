@@ -1,5 +1,5 @@
-# Happy <img src="/public/images/logo.svg" >
-
+ <img src="/public/images/logo.svg" >
+# Happy
 
 ### Sobre
 O projeto Happy, desenvolvido durante a Next Level Week, da Rocketseat.
