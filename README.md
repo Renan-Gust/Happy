@@ -1,6 +1,5 @@
 # Happy 
-# <img src="/public/images/logo.svg" >
-   ![Happy](https://user-images.githubusercontent.com/59374587/95769432-3c361a00-0c8e-11eb-8ce7-9ee9a66f32af.png)
+<img src="/public/images/logo.svg" >
 ### Sobre
 O projeto Happy, desenvolvido durante a Next Level Week, da Rocketseat.
 O projeto é inspirado em instituições de caridade, que realizam trabalhos muito importantes no mundo. E tem como objetivo incentivar as pessoas a visitar orfanatos, o que é uma maravilhosa de ser ver.
